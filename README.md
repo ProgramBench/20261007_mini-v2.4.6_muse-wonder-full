@@ -1,7 +1,6 @@
 # Muse Wonder Full — ProgramBench submission
 
-- **Model:** Muse Wonder Full, max 65,536 output tokens per call. 188 tasks were run on the
-  model's dedicated endpoint and 12 through an API-served endpoint.
+- **Model:** Muse Wonder Full, max 65,536 output tokens per call
 - **Scaffold:** mini-SWE-agent v2.4.5–2.4.6 (single-agent), open source; step limit 1,000, no cost
   limit, 48 h wall-time limit
 - **Protocol:** no-internet + `task_cleanroom_v6` images. The agent sees only the compiled binary

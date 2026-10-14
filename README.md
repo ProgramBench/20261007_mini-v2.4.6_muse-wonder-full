@@ -21,6 +21,9 @@ submitting had their final workspace evaluated as-is.
 Model-call and output-token statistics are generated from the published trajectories by the
 scripts under `_scripts/`.
 
+Cost is unavailable because pricing for Muse Wonder Full has not been published.
+The muse-wonder-1.0 pricing tier does not apply to this run.
+
 ## Redactions
 
 Plaintext reasoning (`reasoning_content`) is removed from every trajectory; the opaque
